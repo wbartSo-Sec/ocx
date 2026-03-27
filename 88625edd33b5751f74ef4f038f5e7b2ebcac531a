@@ -1,0 +1,23 @@
+docs/guides/github-registry.mdx
+  a3574ec3c0d661df 53,55-62,68,71-72,80,84,86,88,90-95,97,99-117,119-135,140-141,143,145-146,161-162,171-195,197-213,215-254,256-257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "88625edd33b5751f74ef4f038f5e7b2ebcac531a",
+  "prompts": {
+    "a3574ec3c0d661df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_32160bd44ffepH6GyJeSay4ctL-a4161617-f934-4a69-b720-8f7554fd08a9",
+        "model": "unknown"
+      },
+      "human_author": "Will B <will.bartlett@sonraisecurity.com>",
+      "messages": [],
+      "total_additions": 150,
+      "total_deletions": 21,
+      "accepted_lines": 150,
+      "overriden_lines": 0
+    }
+  }
+}
